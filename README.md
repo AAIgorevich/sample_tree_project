@@ -1,2 +1,2 @@
 # sample_tree_project
-sample_tree_project
+Создано как образец древа проекта.
